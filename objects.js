@@ -1,5 +1,5 @@
 var playlist = {'Social D':'story of my life'}
 
-function updatePlaylist(name,song) {
+function updatePlaylist(list,name,song) {
   playlist[name] = song
 }
